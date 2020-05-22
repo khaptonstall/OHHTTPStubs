@@ -13,7 +13,6 @@ let package = Package(
         .library(
             name: "OHHTTPStubsSwift",
             targets: [
-                "OHHTTPStubs",
                 "OHHTTPStubsSwift"
             ]
         )
